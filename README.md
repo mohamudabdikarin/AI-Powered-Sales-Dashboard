@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Lumina Hero](./images/hero-dashboard.png)
+
 ![Lumina Dashboard](https://img.shields.io/badge/Lumina-Sales%20Dashboard-00d4aa?style=for-the-badge&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.2.3-61dafb?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,6 +28,12 @@ Lumina Sales Intelligence is a modern, AI-driven sales dashboard that transforms
 - **Modern UI/UX** - Sleek dark theme with smooth animations and responsive design
 - **Multi-Page Navigation** - Comprehensive dashboard with dedicated sections for different business aspects
 - **Performance Optimized** - Built with Vite for lightning-fast development and production builds
+
+<div align="center">
+
+![Feature Preview](./images/screenshots/dashboard-overview.png)
+
+</div>
 
 ---
 
@@ -129,14 +137,58 @@ npm run preview
 
 ## 📱 Screenshots
 
-### Dashboard Overview
-*Main dashboard with revenue metrics, charts, and AI insights*
+<div align="center">
 
-### Performance Analytics
+### 🏠 Dashboard Overview
+*Complete sales intelligence dashboard with real-time metrics and AI insights*
+
+![Dashboard Overview](./images/screenshots/dashboard-overview.png)
+
+---
+
+### 📊 Performance Analytics
 *Detailed performance tracking with team metrics and growth indicators*
 
-### AI Insights Panel
-*AI-powered recommendations and predictive analytics*
+![Performance Analytics](./images/screenshots/performance-analytics.png)
+
+---
+
+### 🤖 AI Insights Panel
+*AI-powered recommendations and predictive analytics powered by Google Gemini*
+
+![AI Insights](./images/screenshots/ai-insights.png)
+
+---
+
+### 👥 Team Management
+*Team performance overview with individual metrics and collaboration tools*
+
+![Team Management](./images/screenshots/team-management.png)
+
+---
+
+### 🎯 Sales Pipeline
+*Interactive pipeline management with deal tracking and status updates*
+
+![Sales Pipeline](./images/screenshots/sales-pipeline.png)
+
+---
+
+### 📈 Reports & Analytics
+*Comprehensive reporting with revenue analysis and key performance metrics*
+
+![Reports Analytics](./images/screenshots/reports-analytics.png)
+
+---
+
+### ⚙️ Settings & Configuration
+*Customizable dashboard settings and user preferences*
+
+![Settings](./images/screenshots/settings-configuration.png)
+
+</div>
+
+> **📸 Note**: Screenshots show the actual dashboard interface with dark theme, neon teal accents, and responsive design. The dashboard features real-time data visualization, interactive charts, and AI-powered insights.
 
 ---
 
