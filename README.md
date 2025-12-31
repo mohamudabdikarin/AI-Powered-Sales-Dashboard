@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Lumina Hero](./images/hero-dashboard.png)
+![Lumina Hero](./images/screenshots/dashboard-overview.png)
 
 ![Lumina Dashboard](https://img.shields.io/badge/Lumina-Sales%20Dashboard-00d4aa?style=for-the-badge&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.2.3-61dafb?style=for-the-badge&logo=react&logoColor=white)
@@ -11,7 +11,7 @@
 
 *A cutting-edge AI-powered sales intelligence platform with real-time analytics and predictive insights*
 
-[🔗 Live Demo](#) • [📖 Documentation](#features) • [🚀 Quick Start](#quick-start)
+[🔗 Live Demo](https://ai-powered-sales-dashboard.vercel.app/) • [📖 Documentation](#features) • [🚀 Quick Start](#quick-start)
 
 </div>
 
