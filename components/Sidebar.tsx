@@ -73,7 +73,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar, activeT
         ))}
       </nav>
 
-      <div className="absolute bottom-8 left-0 w-full px-4">
+      <div className="absolute mt-8 bottom-2 left-0 w-full px-4">
         <div className={`p-4 rounded-2xl bg-gradient-to-br from-slate-800 to-slate-900 border border-slate-700/50 ${!isOpen && 'hidden'}`}>
           <p className="text-xs font-semibold text-teal-400 uppercase tracking-wider mb-2">System Health</p>
           <div className="w-full bg-slate-700 h-1.5 rounded-full overflow-hidden">
