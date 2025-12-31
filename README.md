@@ -29,12 +29,6 @@ Lumina Sales Intelligence is a modern, AI-driven sales dashboard that transforms
 - **Multi-Page Navigation** - Comprehensive dashboard with dedicated sections for different business aspects
 - **Performance Optimized** - Built with Vite for lightning-fast development and production builds
 
-<div align="center">
-
-![Feature Preview](./images/screenshots/dashboard-overview.png)
-
-</div>
-
 ---
 
 ## 🌟 Features
