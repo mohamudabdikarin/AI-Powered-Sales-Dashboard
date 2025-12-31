@@ -299,18 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Mohamud**
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamud24/)
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-## 🙏 Acknowledgments
-
-- [Google Gemini AI](https://ai.google.dev/) for powerful AI capabilities
-- [Recharts](https://recharts.org/) for beautiful chart components
-- [Framer Motion](https://www.framer.com/motion/) for smooth animations
-- [Lucide](https://lucide.dev/) for consistent iconography
-- [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
+- LinkedIn: [My Profile](https://www.linkedin.com/in/mohamud24/)
 
 ---
 
